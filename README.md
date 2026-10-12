@@ -1,4 +1,4 @@
-<img width="1532" height="808" alt="image" src="https://github.com/user-attachments/assets/cd8c806c-fcb5-4e1b-9cd5-6ca96e72daaf" /># Cupids_Kiss_ESP
+# Cupids_Kiss_ESP
 
 LINK DEL JUEGO: https://marysuegames.itch.io/cupids-kiss
 
